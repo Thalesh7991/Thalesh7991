@@ -10,7 +10,10 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em **insights est
 
 ### 💼 Experiência Profissional
 
-- **Cientista de Dados** @ [Radix Engenharia e Software](https://www.linkedin.com/company/radix-engenharia-e-software/) *(2023 - Presente)*
+- **Cientista de Dados** @ [frete.com](https://www.frete.com/) *(Abril 2026 - Presente)*
+  - Desenvolvimento de soluções de dados para otimização de logística e frete
+
+- **Cientista de Dados** @ [Radix Engenharia e Software](https://www.linkedin.com/company/radix-engenharia-e-software/) *(2023 - Abril 2026)*
   - Desenvolvimento de modelos NLP para prevenção de acidentes em plataformas de óleo e gás (Petrobras)
   - Desenvolvimento de produtos envolvendo LLM em projetos internacionais
 

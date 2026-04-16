@@ -21,7 +21,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em **insights est
   - Mentoria de alunos em programas de pós-graduação em Data Science
   - Compartilhamento de conhecimentos técnicos e analíticos
 
-- **Analista de Dados** @ Caio Induscar *(2019 - 2023)*
+- **Analista de Dados** @ [Caio Induscar](https://www.linkedin.com/company/caioinduscaroficial/) *(2019 - 2023)*
   - Desenvolvimento de análises de dados para Vendas, PPCP, Marketing e Controladoria
   - Liderança de projetos estratégicos de otimização de processos
   - Monitoramento de KPIs e faturamento

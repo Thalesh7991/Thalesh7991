@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um **Cientista de Dados** apaixonado por transformar dados em **insights estratégicos** e **soluções inovadoras** que impulsionam melhores decisões nas empresas. Com experiência sólida em **modelagem preditiva**, **processamento de linguagem natural (NLP)** e **machine learning em produção**, meu objetivo é desenvolver produtos de dados que gerem valor real.
 
